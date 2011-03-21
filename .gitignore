@@ -1,0 +1,6 @@
+#git ignore files
+
+.DS_Store
+
+inc/config.ini
+inc/database.inc.copy.php
