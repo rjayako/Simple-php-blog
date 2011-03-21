@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="188dc3d8-46cf-4201-a14f-31f789bf3be0" name="Default" comment="" />
+    <list default="true" id="188dc3d8-46cf-4201-a14f-31f789bf3be0" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +38,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.19607843">
+            <state line="6" column="5" selection-start="76" selection-end="76" vertical-scroll-proportion="0.19607843">
               <folding />
             </state>
           </provider>
@@ -451,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.19607843">
+        <state line="6" column="5" selection-start="76" selection-end="76" vertical-scroll-proportion="0.19607843">
           <folding />
         </state>
       </provider>
